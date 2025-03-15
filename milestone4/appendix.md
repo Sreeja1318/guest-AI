@@ -30,3 +30,32 @@ Integration with Together.AI API
 Each dashboard incorporates Together.AI’s API to provide automated insights and interpretations for the graphs. This feature enhances user experience by offering real-time explanations for trends and patterns observed in the visualizations.
 
 Output Images:
+
+![Image_Alt]()
+
+
+![Image_Alt]()  
+
+
+![Image_Alt]()
+
+
+
+![Image_Alt]()
+
+
+
+![Image_Alt]()
+
+
+
+![Image_Alt]()
+
+
+
+
+![Image_Alt]()
+
+
+
+![Image_Alt]()
