@@ -47,3 +47,6 @@ Output Images
 ![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/f9bdc59c5b1dd38a0cebd2a848e132d313bd552a/milestone2/hotelbooking.png)
 
 
+
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/fa876d6dbc8a9883ca80a30a43675fd82bdcf8f1/milestone2/bookinconfimation.png)
+
