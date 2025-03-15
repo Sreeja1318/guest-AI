@@ -31,31 +31,36 @@ Each dashboard incorporates Together.AI’s API to provide automated insights an
 
 Output Images:
 
-![Image_Alt]()
 
 
-![Image_Alt]()  
-
-
-![Image_Alt]()
-
-
-
-![Image_Alt]()
-
-
-
-![Image_Alt]()
-
-
-
-![Image_Alt]()
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/831112399b1aebfee84a7527d7c9e269d69acd31/milestone4/dash1.png)  
 
 
 
 
-![Image_Alt]()
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/831112399b1aebfee84a7527d7c9e269d69acd31/milestone4/dash2.png)
 
 
 
-![Image_Alt]()
+
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/831112399b1aebfee84a7527d7c9e269d69acd31/milestone4/dash3.png)
+
+
+
+
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/831112399b1aebfee84a7527d7c9e269d69acd31/milestone4/dash4.png)
+
+
+
+
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/831112399b1aebfee84a7527d7c9e269d69acd31/milestone4/dash5.png)
+
+
+
+
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/831112399b1aebfee84a7527d7c9e269d69acd31/milestone4/dash6.png)
+
+
+
+
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/831112399b1aebfee84a7527d7c9e269d69acd31/milestone4/dash7.png)
