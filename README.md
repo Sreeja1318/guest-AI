@@ -57,7 +57,7 @@ Integrated all milestones into a seamless, user-friendly visualization interface
 pages
 Integrated all the User Interfaces using auth.py as a login/signup page making it user friendly for all the customer requirements.
 Clone the Repository
-git clone https://github.com/bhargavi852004/AI-Powered-Guest-Experience-Personalization-System-for-Hospitality.git
+git clone https://github.com/Sreeja1318/guest-AI.git
 Future Enhancements
 Improve Model Accuracy: Experiment with hyperparameter tuning and deep learning models.
 Expand Sentiment Monitoring: Integrate audio sentiment analysis from voice feedback.
