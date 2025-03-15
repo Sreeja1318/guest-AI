@@ -25,7 +25,7 @@ Loads the trained XGBoost model and predicts dish recommendations.
 Uses a label encoder to map predictions to dish names.
 Extracts the top three recommended dishes.
 Database Storage
-Stores new booking details in MongoDB under the new_bookings![Uploading clg 2.jpg…]()
+Stores new booking details in MongoDB under the new_bookings!
  collection.
 Email Confirmation & Coupon Generation
 Generates a unique coupon code for the user.
@@ -41,4 +41,9 @@ The web interface is intuitive and user-friendly.
 Conclusion Milestone 2 successfully built upon the model developed in Milestone 1 by integrating it into a functional hotel booking system. The system enhances user experience through personalized dining recommendations and seamless booking confirmation.
 
 Output Images
+
+
+
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/f9bdc59c5b1dd38a0cebd2a848e132d313bd552a/milestone2/hotelbooking.png)
+
 
