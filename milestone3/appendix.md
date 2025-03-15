@@ -27,4 +27,4 @@ UI Outcomes Images
 
 
 2.MANAGER REVIEW ANALYSIS
-[Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/262b77d6ec0e3a9489984ac022b1cbf6bfea6ee2/milestone3/managerreviews.png)
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/262b77d6ec0e3a9489984ac022b1cbf6bfea6ee2/milestone3/managerreviews.png)
