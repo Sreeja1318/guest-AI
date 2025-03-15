@@ -23,7 +23,7 @@ Final Outcomes
 UI Outcomes Images
 
 1.CUSTOMER REVIEWS
-[Image_Alt]()
+![Image_Alt](https://github.com/Sreeja1318/guest-AI/blob/64f889681c551ecd75ce4e2431b29d680273406a/milestone3/review.png)
 
 
 2.MANAGER REVIEW ANALYSIS
